@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GankTest</string>
+    <string name="title_activity_main2">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_search">搜索</string>
+    <string name="load_error"><![CDATA[加载失败，o((>ω< ))o]]></string>
+</resources>

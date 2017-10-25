@@ -1,0 +1,20 @@
+<resources>
+
+    //整个diaolog的大小之类的属性设置
+    <style name="DialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+    </style>
+
+    //卧槽，这什么主题啊，一直有问题,是不是没写规范还是api的问题？
+
+    <style name="DialogEmptyAnimation" parent="@android:style/Animation.Dialog">
+
+        <item name="android:windowEnterAnimation">@null</item>
+        <item name="android:windowExitAnimation">@null</item>
+    </style>
+
+</resources>
